@@ -1,32 +1,58 @@
+<img align="right" height="195" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJydHJjbWdzMmE3NmdoN2Q5bDlnOWdwMXg3enNyNWJvMmdmNWx6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyO81KYTJQmSQ5NOmR/giphy.gif"  />
+
+###
+
 <h1 align="center">👾 Seja muito bem vindo ao meu perfil! 💻</h1>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CaiqueGalinari/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaiqueGalinari.CaiqueGalinari&left_color=brown&right_color=rosybrown&left_text=Visitantes"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiqueGalinari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaiqueGalinari&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/caiquegalinarileite/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/caique_galinari/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Sou brasileiro, de Minas Gerais ☕<br><br>- 🔭 Estudo na UFOP<br>- 📚 Estou aprendendo a magia da programação!<br>- ✝️ Jesus Cristo é meu Senhor e Salvador</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31uwyaesgo2azpfin5rup2ouvzwe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uwyaesgo2azpfin5rup2ouvzwe&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<h3 align="left">🔥   Meus marcos:</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiqueGalinari/CaiqueGalinari/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiqueGalinari/CaiqueGalinari/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CaiqueGalinari/CaiqueGalinari/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
