@@ -31,8 +31,6 @@ Sou de Minas Gerais, Brasil ☕ e atualmente estudo na **UFOP**. Sou apaixonado 
 
 ### 🛠️ Arsenal Tecnológico
 
-### 🛠️ Arsenal Tecnológico
-
 <div align="center">
   <img src="https://img.shields.io/badge/Java-22333B?style=for-the-badge&logo=openjdk&logoColor=EAE0D5" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-EAE0D5?style=for-the-badge&logo=springboot&logoColor=0A0908" alt="Spring Boot" />
